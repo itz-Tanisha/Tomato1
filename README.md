@@ -1,4 +1,4 @@
-# Tomato -  Food Ordering Website using React JS, MongoDB, Express, Node JS & Stripe
+# Tomato -  Food Ordering Website using MERN Stack
 
 This repository contains an Online Food Ordering Website developed using the MERN Stack (MongoDB, Express, React, Node.js). 
 The website offers a convenient way for users to order food online from the restaurant at the comfort of their home.
@@ -11,7 +11,7 @@ The website offers a convenient way for users to order food online from the rest
 
 ## Technologies Used
 - **Frontend:** React.js, HTML, CSS<br>
-- **Backend:** Express <br>
+- **Backend:** Node JS, Express <br>
 - **Database:** MongoDB <br>
 <br>
 
